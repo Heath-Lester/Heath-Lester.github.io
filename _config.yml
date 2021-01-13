@@ -1,0 +1,12 @@
+# Site settings
+title: Heath Lester
+email: h.allen.lester@gmail.com
+description: > # I am a determined junior software engineer with a passion for technology, teamwork and problem solving. My experience as a classical musician and as a former member of the military has molded my temperament as a team player who does not give up."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+linkedin_username: halester
+github_username: Heath-Lester
+
+# Build settings
+markdown: kramdown
