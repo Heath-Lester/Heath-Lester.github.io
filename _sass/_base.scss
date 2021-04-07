@@ -223,6 +223,14 @@ header {
     }
 }
 
+.service-box-2 {
+    max-width: 400px;
+    margin: 50px auto 0;
+    @media (min-width: 992px) {
+        margin: 20px auto 0;
+    }
+}
+
 
 #portfolio {
     background: $theme-primary;
@@ -323,7 +331,8 @@ header {
 }
 
 .btn-x2 {
-    padding: 20px 35px;
+    padding: 25px 40px;
+    color: white;
     background-color: $theme-primary;
 }
 
