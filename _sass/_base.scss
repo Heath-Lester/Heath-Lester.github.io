@@ -226,6 +226,7 @@ header {
 .service-box-2 {
     max-width: 400px;
     margin: 50px auto 0;
+    margin-bottom: 20px;
     @media (min-width: 992px) {
         margin: 20px auto 0;
     }
@@ -332,6 +333,7 @@ header {
 
 .btn-x2 {
     padding: 25px 40px;
+    font-size: larger;
     color: white;
     background-color: $theme-primary;
 }
